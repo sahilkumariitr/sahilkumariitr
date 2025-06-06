@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Sahil  and I'm a undergrad at IIT Roorkee. I'm interested in Data Analytics and Machine Learning.</h2>
+<h2 align="left">Hi 👋! I'm Sahil, undergrad student at IIT Roorkee.</h2>
 
 ###
 
